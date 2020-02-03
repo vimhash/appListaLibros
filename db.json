@@ -1,0 +1,29 @@
+{
+    "libros": 
+    [
+        {
+            "id": 1,
+            "nombre": "El adversario",
+            "autor": "Emmanuel Carreré",
+            "año": 2000
+        },
+        {
+            "id": 2,
+            "nombre": "13 razones para",
+            "autor": "Test",
+            "año": 2015
+        },
+        {
+            "id": 3,
+            "nombre": "Aladino",
+            "autor": "Autor X",
+            "año": 1960
+        },
+        {
+            "id": 4,
+            "nombre": "50 Sombras de Grey",
+            "autor": "No me acuerdo",
+            "año": 2018
+        }
+    ]
+}
